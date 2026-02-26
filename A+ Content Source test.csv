@@ -1,0 +1,26 @@
+﻿,,,
+ASUS User Instruction,,,How to update
+,,,PM
+Tab:,Usage,,"Step 1: Download & Paste raw data into column G of RAW.KSP.Link, starting from the first empty row."
+Search-Table:,Use this tab to test if your product info is correct and able to be searched,,Step 2: Fill in Tagline and KSP in columns C and D of the RAW.KSP.Link sheet.
+Raw.KSP.Link,Spec sheet PM updated from EIP-Ecom-PreConfig,,Step 3: Notify MKT to upload material file links for the newly added products.
+Auto-NX,Sheet containing formulas to auto-generate text in specific format for NX,,"Step 4: Once MKT report is done, export ForWeb as CSV (UTF-8) and replace the old file on GitHub."
+Auto-AIO,Sheet containing formulas to auto-generate text in specific format for AIO,,Step 5: Check if the website is working after 3 minutes (include the SPEC and Link bottom)
+Auto-PF,Sheet containing formulas to auto-generate text in specific format for PF,,
+ForWeb,Data for export to Website and Search-Table as data resource,,
+MKT name rule,"If MKT name is not auto-generated in RAW,KSP,Link, fill it in manually.",,
+,,,MKT
+,,,"Step 1: Once PM requests, upload the corresponding Google Drive link into column G of RAW.KSP.Link"
+Website Link,https://astonlu.github.io/AplusContent/,,Step 2: Report back to PM once done
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+INTERNAL USE ONLY. DO NOT SHARE THIS FILE TO PARTNERS.,,,
+,,,
+,,,
+,,,
+,,,
+, ,,
